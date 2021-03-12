@@ -1,4 +1,9 @@
-Olympic  --冬奥会FAQ系统Gold版 Bert实现 By zlJin 包含训练文件和数据
+# Transformer
 
-Oly_run  --冬奥会FAQ系统Gold版简略运行版，包含了运行所需要的必要文件
+由Google在《Attention is All Your Need》中提出
 
+
+
+
+
+This is implemented By http://nlp.seas.harvard.edu/2018/04/03/attention.html
